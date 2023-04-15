@@ -15,9 +15,3 @@ The input color must be in hex format and enclosed in quotes or the "#" symbol m
 ```$ bash color_name.sh \#B94E48```
 
 The script will download all the necessary packages automatically.
-
-## Contributing
-We welcome contributions to ColorChameleon! If you have any ideas for new features or enhancements, feel free to submit a pull request.
-
-## License
-ColorChameleon is released under the MIT License.
