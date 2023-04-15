@@ -9,6 +9,7 @@ ColorChameleon compares the input hex code to the colors in the database and cal
 To use ColorChameleon, simply run the following command:
 
 ```$ bash color_name.sh "#B94E48"```
+
 The input color must be in hex format and enclosed in quotes or the "#" symbol must be escaped. For example, the following command would also work:
 
 ```$ bash color_name.sh \#B94E48```
